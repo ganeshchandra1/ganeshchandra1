@@ -1,55 +1,81 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Ganesh Chandra | Portfolio</title>
-  <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
-  <style>
-    @keyframes float {
-      0% { transform: translatey(0px); }
-      50% { transform: translatey(-10px); }
-      100% { transform: translatey(0px); }
-    }
-    .animate-float {
-      animation: float 3s ease-in-out infinite;
-    }
-    .fade-in {
-      animation: fadeIn 1.5s ease-in forwards;
-    }
-    @keyframes fadeIn {
-      from { opacity: 0; transform: translateY(10px); }
-      to { opacity: 1; transform: translateY(0); }
-    }
-  </style>
-</head>
-<body class="bg-gray-900 text-white font-sans">
-  <div class="min-h-screen flex flex-col items-center justify-center px-4">
-    <h1 class="text-5xl font-bold text-center animate-float">👋 Hi, I'm Ganesh Chandra</h1>
-    <p class="text-xl text-gray-400 mt-4 text-center fade-in">Software Developer | Cloud Enthusiast | Full Stack Engineer</p>
-    <div class="mt-10 space-x-4 fade-in">
-      <a href="mailto:cganesh208@gmail.com" class="bg-blue-500 hover:bg-blue-600 text-white px-4 py-2 rounded-lg transition-all">Email Me</a>
-      <a href="https://github.com/ganeshchandra" target="_blank" class="bg-gray-800 hover:bg-gray-700 text-white px-4 py-2 rounded-lg transition-all">GitHub</a>
-      <a href="https://linkedin.com/in/..." target="_blank" class="bg-blue-700 hover:bg-blue-800 text-white px-4 py-2 rounded-lg transition-all">LinkedIn</a>
-    </div>
+<h1 align="center">Hi there, I'm <span style="color:#6366f1">Ganesh Chandra</span> 👋</h1>
 
-    <div class="mt-20 max-w-3xl w-full fade-in">
-      <h2 class="text-3xl font-semibold mb-4 border-b pb-2 border-gray-700">🚀 Projects</h2>
-      <div class="grid md:grid-cols-2 gap-6">
-        <div class="bg-gray-800 p-4 rounded-lg shadow-lg hover:scale-105 transform transition-transform">
-          <h3 class="text-xl font-bold">Fleet Tracker</h3>
-          <p class="text-gray-300">Real-time GPS fleet tracking with Vue.js and Golang.</p>
-        </div>
-        <div class="bg-gray-800 p-4 rounded-lg shadow-lg hover:scale-105 transform transition-transform">
-          <h3 class="text-xl font-bold">GeneView</h3>
-          <p class="text-gray-300">Genome visualization using React and TypeScript.</p>
-        </div>
-      </div>
-    </div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ganeshchandra&style=plastic" alt="ganeshchandra" />
+</p>
 
-    <footer class="mt-20 text-sm text-gray-500 text-center fade-in">
-      Built with ❤️ using TailwindCSS. Last updated 2025.
-    </footer>
-  </div>
-</body>
-</html>
+---
+
+### 👨‍💻 About Me
+
+I'm a **Computer Science graduate** with a passion for building dynamic web apps, analyzing data, and deploying full-stack solutions in the cloud. I specialize in **Vue.js**, **React**, **Python**, and **AWS**. I enjoy solving problems, contributing to projects, and learning new technologies.
+
+- 🔭 I’m currently working at **BulkMagic** as a Software Developer Trainee
+- 🌱 Currently exploring: **Next.js**, **AWS Lambda**, and **bioinformatics** tools
+- ⚡ Fun fact: I once replaced Elasticsearch with a blazing-fast Redis cache to shave off 100ms from search queries
+
+---
+
+### 💻 Tech Stack
+
+```bash
+Languages:   JavaScript | TypeScript | Python | SQL
+Frontend:    React | Vue3 | Tailwind CSS | Material UI
+Backend:     Node.js | Django | Go | REST | GraphQL
+Databases:   PostgreSQL | MySQL | Redis | Elasticsearch
+Cloud:       AWS (Lambda, EC2, S3, RDS, AppSync) | Vercel
+CI/CD:       GitHub Actions | GitLab CI | Jenkins | Docker
+```
+
+---
+
+### 🧠 Skills
+
+<p>
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Vue-42B883?style=for-the-badge&logo=vue.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ganeshchandra&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshchandra&layout=compact&theme=radical" />
+</p>
+
+---
+
+### 🧪 Side Projects
+
+| Project     | Tech Stack               | Description |
+|-------------|--------------------------|-------------|
+| Fleet Tracker | Vue3, Go, GraphQL        | Real-time GPS tracking system with live map rendering |
+| GeneView     | React, TypeScript, Chart.js | Interactive genomics data visualizer with filtering support |
+
+---
+
+### 🎓 Education
+
+- **MS in Computer Science** — California State University, Long Beach (GPA: 3.7)
+- **BS in Computer Science** — Hindustan Institute of Tech (GPA: 9.5/10)
+
+---
+
+### 📬 Contact
+
+<p>
+  <a href="mailto:cganesh208@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://linkedin.com/in/..." target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/ganeshchandra" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
+
+---
+
+> ⚡ _"Fueled by curiosity and chai. Building apps that do cool things."_
