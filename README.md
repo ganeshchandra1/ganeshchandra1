@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm <span style="color:#6366f1">Ganesh Chandra</span> 👋</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ganeshchandra&style=plastic" alt="ganeshchandra" />
+  <img src="https://komarev.com/ghpvc/?username=ganeshchandra1&style=plastic" alt="ganeshchandra" />
 </p>
 
 ---
@@ -11,7 +11,7 @@
 I'm a **Computer Science graduate** with a passion for building dynamic web apps, analyzing data, and deploying full-stack solutions in the cloud. I specialize in **Vue.js**, **React**, **Python**, and **AWS**. I enjoy solving problems, contributing to projects, and learning new technologies.
 
 - 🔭 I’m currently working at **BulkMagic** as a Software Developer Trainee
-- 🌱 Currently exploring: **Next.js**, **AWS Lambda**, and **bioinformatics** tools
+- 🌱 Currently exploring: **Next.js**, **AWS**, and **bioinformatics** tools
 - ⚡ Fun fact: I once replaced Elasticsearch with a blazing-fast Redis cache to shave off 100ms from search queries
 
 ---
@@ -46,8 +46,8 @@ CI/CD:       GitHub Actions | GitLab CI | Jenkins | Docker
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ganeshchandra&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshchandra&layout=compact&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ganeshchandra1&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshchandra1&layout=compact&theme=radical" />
 </p>
 
 ---
