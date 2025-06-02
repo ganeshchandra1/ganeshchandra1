@@ -10,7 +10,7 @@
 
 I'm a **Computer Science graduate** with a passion for building dynamic web apps, analyzing data, and deploying full-stack solutions in the cloud. I specialize in **Vue.js**, **React**, **Python**, and **AWS**. I enjoy solving problems, contributing to projects, and learning new technologies.
 
-- 🔭 I’m currently working at **BulkMagic** as a Software Developer Trainee
+- 🔭 I’m currently working at **BulkMagic** as a Software Developer
 - 🌱 Currently exploring: **Next.js**, **AWS**, and **bioinformatics** tools
 - ⚡ Fun fact: I once replaced Elasticsearch with a blazing-fast Redis cache to shave off 100ms from search queries
 
@@ -72,8 +72,8 @@ CI/CD:       GitHub Actions | GitLab CI | Jenkins | Docker
 
 <p>
   <a href="mailto:cganesh208@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://linkedin.com/in/..." target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/ganeshchandra" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://linkedin.com/in/ganesh-ch1" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/ganeshchandra1" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
 ---
