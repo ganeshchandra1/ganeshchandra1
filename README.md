@@ -23,7 +23,7 @@ Languages:   JavaScript | TypeScript | Python | SQL
 Frontend:    React | Vue3 | Tailwind CSS | Material UI
 Backend:     Node.js | Django | Go | REST | GraphQL
 Databases:   PostgreSQL | MySQL | Redis | Elasticsearch
-Cloud:       AWS (Lambda, EC2, S3, RDS, AppSync) | Vercel
+Cloud:       AWS (Cognito, Lambda, EC2, S3, RDS, DynamoDB, AppSync) | Vercel
 CI/CD:       GitHub Actions | GitLab CI | Jenkins | Docker
 ```
 
